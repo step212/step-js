@@ -1,0 +1,12 @@
+.gitignore
+.npmignore
+api.ts
+base.ts
+common.ts
+configuration.ts
+docs/AiApi.md
+docs/HTTPValidationError.md
+docs/ValidationError.md
+docs/ValidationErrorLocInner.md
+git_push.sh
+index.ts

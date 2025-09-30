@@ -1,0 +1,15 @@
+version: "3"
+
+services:
+  frontend-step212-production:
+    build:
+      context: ../../
+      dockerfile: docker/production/Dockerfile
+    image: docker.domain.com/frontend-step212-production:v2.0.10
+    platform: linux/amd64
+    environment:
+      - KEYCLOAK_CLIENT_ID=client-ID
+      - KEYCLOAK_CLIENT_SECRET=client-secret
+      - KEYCLOAK_ISSUER=https://domain.com:443/auth/realms/realm-name
+    ports:
+      - "80:80"

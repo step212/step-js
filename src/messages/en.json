@@ -1,0 +1,314 @@
+{
+  "Targets": "Targets",
+  "Please login": "Please login",
+  "Title": "Title",
+  "Description": "Description",
+  "Type": "Type",
+  "Status": "Status",
+  "Created At": "Created At",
+  "Started At": "Started At",
+  "Challenge At": "Challenge At",
+  "Completed At": "Completed At",
+  "Action": "Action",
+  "View Details": "View Details",
+  "Portrait": "Portrait",
+  "Save": "Save",
+  "Cancel": "Cancel",
+  "Edit": "Edit",
+  "Delete": "Delete",
+  "Back": "Back",
+  "Is Challenge": "Is Challenge",
+  "Add Details": "Add Details",
+  "Add Accumulate": "Add Accumulate",
+  "Add Directory": "Add Directory",
+  "Directory Name": "Directory Name",
+  "Directory": "Directory",
+  "Back to Target": "Back to Target",
+  "Complete": "Complete",
+  "Target Tree": "Target Tree",
+  "Click or drag file to this area to upload": "Click or drag file to this area to upload",
+  "Add Child Target": "Add Child Target",
+  "Add Target": "Add Target",
+  "Create New Target": "Create New Target",
+  "Edit Target": "Edit Target",
+  "loading_state": "Loading...",
+  "updating_state": "Updating...",
+  "Update": "Update",
+  "Create": "Create",
+  "creating_state": "Creating...",
+  "coming soon": "Coming soon",
+  "Confirm Delete": "Confirm Delete",
+  "Delete successful": "Delete successful",
+  "Delete failed": "Delete failed",
+  "Are you sure you want to delete this item?": "Are you sure you want to delete this item?",
+  "Details": "Details",
+  "Share": "Share",
+  "Teacher Comment": "Teacher Comment",
+  "Parent Comment": "Parent Comment",
+  "Friend Comment": "Friend Comment",
+  "Add Parent Comment": "Add Parent Comment",
+  "Add Teacher Comment": "Add Teacher Comment",
+  "Add Friend Comment": "Add Friend Comment",
+  "Enter parent comment": "Enter parent comment",
+  "Enter teacher comment": "Enter teacher comment",
+  "Enter friend comment": "Enter friend comment",
+  "Submit Comment": "Submit Comment",
+  "Comment submitted successfully": "Comment submitted successfully",
+  "Comment": "Comment",
+  "Link copied to clipboard": "Link copied to clipboard",
+  "Failed to copy link": "Failed to copy link",
+  "Share with:": "Share with:",
+  "Parent": "Parent",
+  "Teacher": "Teacher",
+  "Friend": "Friend",
+  "Generate Share Link": "Generate Share Link",
+  "Failed to generate share link": "Failed to generate share link",
+  "Share Link:": "Share Link:",
+  "Copy": "Copy",
+  "Please select at least one share target": "Please select at least one share target",
+  "Target": "Target",
+  "Quality": "Quality",
+  "Ratings": "Ratings",
+  "Target Clarity": "Target Clarity",
+  "Target Achievement": "Target Achievement",
+  "Target Reasonableness": "Target Reasonableness",
+  "Difficulty": "Difficulty",
+  "Innovation": "Innovation",
+  "Basic Reliability": "Basic Reliability",
+  "Skill Improvement": "Skill Improvement",
+  "Reflection Improvement": "Reflection Improvement",
+  "Weighted Value": "Weighted Value",
+  "Please complete all ratings": "Please complete all ratings",
+  "Score must be 0-10": "Score must be between 0 and 10",
+  "Index": {
+    "title": "STEP App",
+    "description": "Accumulate step by step"
+  },
+  "Layout": {
+    "Login": "Login",
+    "Logout": "Logout",
+    "Welcome": "Welcome",
+    "Name": "Name",
+    "Email": "Email",
+    "Access Token": "Access Token",
+    "Profile Image": "Profile Image",
+    "Portrait": "Portrait",
+    "Questions": "Questions",
+    "Accumulate": "Accumulate",
+    "Feedback": "Feedback",
+    "Home": "Home"
+  },
+  "Questions": {
+    "title": "AI Assistant",
+    "welcomeTitle": "Start Conversation",
+    "welcomeDescription": "Ask me any question, and I'll do my best to help you.",
+    "inputPlaceholder": "Enter your question...",
+    "thinking": "Thinking...",
+    "sendHint": "Press Enter to send, Shift + Enter for new line",
+    "noReplyError": "Sorry, I didn't receive a reply.",
+    "generalError": "Sorry, an error occurred. Please try again later.",
+    "loginRequired": "Login Required",
+    "loginDescription": "Please login to use the AI assistant feature.",
+    "loginButton": "Login Now"
+  }
+  ,
+  "PortraitPage": {
+    "basicSectionTitle": "Basic Portrait",
+    "accumulationSectionTitle": "Accumulation Statistics",
+    "targetSectionTitle": "Select Target",
+    "seriesSectionTitle": "Select Statistic Value",
+    "statUnit": {
+      "day": "Day",
+      "week": "Week",
+      "month": "Month"
+    },
+    "dimension": {
+      "basic": "Basic",
+      "self_discipline": "Self-discipline",
+      "target_and_execution": "Target & Execution",
+      "learning_and_growth": "Learning & Growth"
+    },
+    "metrics": {
+      "bravery": "Bravery",
+      "decisiveness": "Decisiveness",
+      "patience": "Patience",
+      "perseverance": "Perseverance",
+      "basic_solid": "Foundation",
+      "challenge_attitude": "Challenge Attitude",
+      "innovative_method": "Innovative Method",
+      "reflection_and_improvement": "Reflection & Improvement",
+      "skill_improvement": "Skill Improvement",
+      "checkin_frequency": "Check-in Frequency",
+      "consistency": "Consistency",
+      "adjustment_ability": "Adjustment Ability",
+      "goal_achievement": "Target Achievement",
+      "goal_clarity": "Target Clarity",
+      "goal_reasonableness": "Target Reasonableness"
+    }
+  },
+  "FeedbackPage": {
+    "title": "Feedback Awards",
+    "createAward": "Create Award",
+    "realizeAward": "Realize Award",
+    "awardDetails": "Award Details",
+    "noAwards": "No awards found",
+    "basicInformation": "Basic Information",
+    "backToList": "Back to List",
+    "description": "Description",
+    "targetType": "Target Type",
+    "scope": "Scope",
+    "dimension": "Dimension",
+    "threshold": "Threshold",
+    "settedAt": "Set Date",
+    "achievedAt": "Achieved Date",
+    "realizedAt": "Realized Date",
+    "settedFiles": "Set Files",
+    "realizedFiles": "Realized Files",
+    "deleteConfirm": "Are you sure you want to delete this award?",
+    "deleteSuccess": "Award deleted successfully",
+    "pages": {
+      "create": "Create Award",
+      "realize": "Realize Award",
+      "detail": "Award Detail"
+    },
+    "filters": {
+      "all": "All",
+      "setted": "Set",
+      "achieved": "Achieved",
+      "realized": "Realized"
+    },
+    "fileTypes": {
+      "image": "Image",
+      "video": "Video",
+      "audio": "Audio",
+      "document": "Document"
+    },
+    "uploadFiles": "Upload Files",
+    "selectFiles": "Select files to upload",
+    "maxFileSize": "Maximum file size: 10MB",
+    "enterDescription": "Enter award description...",
+    "pleaseEnterDescription": "Please enter description",
+    "descriptionMinLength": "Description must be at least 10 characters",
+    "pleaseSelectTargetType": "Please select target type",
+    "selectTargetType": "Select target type",
+    "targetTypePortrait": "Portrait",
+    "targetTypeTarget": "Target",
+    "pleaseSelectScope": "Please select scope",
+    "selectScope": "Select scope",
+    "selectTopTarget": "Select top target",
+    "pleaseSelectDimension": "Please select dimension",
+    "selectMetric": "Select metric",
+    "pleaseEnterThreshold": "Please enter threshold",
+    "thresholdMinValue": "Threshold must be at least 1",
+    "enterThresholdValue": "Enter threshold value",
+    "uploadHint": "Support for single or bulk upload.",
+    "fileSizeError": "File must be smaller than 10MB!",
+    "awardCreatedSuccess": "Award created successfully",
+    "createAwardFailed": "Failed to create award",
+    "fetchTargetsFailed": "Failed to fetch targets",
+    "awardNotAchieved": "Award must be achieved before realization",
+    "uploadRealizedFiles": "Upload files to realize this award:",
+    "realizeSuccess": "Award realized successfully!",
+    "realizeFailed": "Failed to realize award",
+    "selectedFiles": "Selected files",
+    "pleaseSelectFiles": "Please select files to upload",
+    "And": "and",
+    "more files": "more files",
+    "modules": {
+      "title": "Feedback System",
+      "subtitle": "Choose the module you want to use",
+      "award": {
+        "title": "Award Management",
+        "description": "Manage award settings, achievements and realizations\nSupport file upload and status tracking",
+        "button": "Enter Award Management"
+      },
+      "show": {
+        "title": "Show Management", 
+        "description": "Display and share your achievements\nComing soon...",
+        "button": "Coming Soon"
+      },
+      "footer": "The feedback system helps you manage awards and showcase achievements, improving work efficiency and sense of accomplishment"
+    },
+    "show": {
+      "title": "Show Module Coming Soon",
+      "subtitle": "We are developing the show module that will help you better display and share your achievements. Stay tuned!",
+      "features": {
+        "title": "Expected Features",
+        "achievement_wall": "Achievement Display Wall",
+        "social_sharing": "Social Sharing Features",
+        "personal_stats": "Personal Achievement Statistics",
+        "team_leaderboard": "Team Leaderboard",
+        "badge_system": "Badge Collection System"
+      }
+    }
+  },
+  "HomePage": {
+    "vision": {
+      "title": "Beyond the race of time and space, we prove ourselves step by step.",
+      "subtitle": "Each step forward is on our own ladder; looking back, we stand where we once gazed up."
+    },
+    "welcome": {
+      "authenticated": "Dear {email}, please start your journey to success!",
+      "guest": "Login is also the first step to success!"
+    },
+    "nodes": {
+      "brave": "Brave",
+      "decisive": "Decisive",
+      "patience": "Patience", 
+      "perseverance": "Perseverance"
+    },
+    "edges": {
+      "braveToDecisive": "The first step to success",
+      "decisiveToPatience": "Thousand miles begins with a single step",
+      "patienceToPermerseverance": "Success is within reach"
+    },
+    "modal": {
+      "brave": "Every time you envision the future and set goals, you can increase your bravery!",
+      "decisive": "Quickly accumulating for goals can increase your decisiveness!",
+      "patience": "Regular accumulation can increase your patience!",
+      "perseverance": "Challenging accumulation can increase your perseverance!",
+      "backButton": "Back"
+    },
+    "introduction": {
+      "title": "🌟 Goals Guide Direction, Accumulation Creates Brilliance 🌟",
+      "steps": [
+        {
+          "title": "🌟 Step 1: Set Clear Goals, No More Confusion in Efforts 🌟",
+          "content": "Have you ever been confused about the direction of your efforts? Have you lost yourself in blind busyness? Here, we understand that every step of accumulation should have a clear goal. Setting goals is like lighting a lamp in the darkness, illuminating the path forward. We will help you light this lamp, making every effort move towards your dreams."
+        },
+        {
+          "title": "🌟 Step 2: Understand Yourself Deeply, Customize Your Goals 🌟",
+          "content": "Everyone is unique, and so should our goals be. Through deep self-analysis, we will create personalized goals for you. Like selecting the most suitable soil for each seed, we ensure your goals match your characteristics while inspiring your potential, truly achieving 'individualized teaching' for a more precise and efficient growth path."
+        },
+        {
+          "title": "🌟 Step 3: Harness AI Power for More Scientific Goals 🌟",
+          "content": "In this intelligent age, we equip you with a powerful AI assistant. It will provide scientific goal-setting suggestions based on your needs and data. Whether it's study plans, fitness goals, or skill improvement, AI can plan precisely for you, making goals not distant dreams but achievable possibilities."
+        },
+        {
+          "title": "🌟 Step 4: Persist and Write Your Legend 🌟",
+          "content": "Setting goals is just the beginning; persistence is the key to victory. We believe that with unwavering persistence, even water can penetrate stone. Here, we will accompany you through every difficult moment, witnessing you bloom with brilliant light from gradual accumulation. Remember, with persistence, every effort will be rewarded."
+        },
+        {
+          "title": "🌟 Step 5: Positive Feedback Makes Persistence More Powerful 🌟",
+          "content": "Consistent check-ins require not only willpower but also positive encouragement. Here, you will receive sincere praise from teachers, parents, or classmates. Every like and encouragement is your driving force, making you no longer alone on the path of accumulation, but filled with warmth and strength."
+        },
+        {
+          "title": "🌟 Step 6: Small Goals Support Great Achievements 🌟",
+          "content": "Check-ins should not be mechanical repetition, but progress towards small goals one by one. Here, teachers, parents, or classmates will provide supervision and guidance, making every check-in meaningful and directional. From one small goal to another, you will climb step by step, ultimately achieving your own brilliance."
+        },
+        {
+          "title": "🌟 Step 7: Showcase Yourself, Let Accumulation Shine 🌟",
+          "content": "After accumulating for a while, you need a stage to let your efforts be seen. Here, we will provide opportunities for you to showcase, whether it's sharing achievements or displaying talents, you will gain a full sense of accomplishment. Because every accumulation deserves to be remembered by the world."
+        },
+        {
+          "title": "🌟 Step 8: Personal Profile Feedback, Goals Continuously Evolve 🌟",
+          "content": "Every goal setting, every check-in, adds color to your personal profile. These profiles will feedback into goal setting, forming a perfect closed loop. Your goals will continuously evolve with your growth, making every step more aligned with your needs and closer to your dreams."
+        }
+      ],
+      "conclusion": {
+        "title": "🌟 Join Us, Start Your Growth Journey 🌟",
+        "content": "This is not just an APP, this is a journey about accumulation and growth. Here, you will find goals, gain encouragement, and witness growth. Let's together, with every step of accumulation, write our own legend. Download now, start your growth journey, and make every step count!"
+      }
+    }
+  }
+} 
